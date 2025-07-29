@@ -1,7 +1,7 @@
 # ⚽ Soccer Player Detection System 🎯
 
 A real-time soccer player detection system powered by **YOLOv11**, capable of detecting players in both **live video feeds** and **static images**.
-(u need to train the best.pt by make your own dataset)
+(u need to train the best.pt by making your own dataset)
 ---
 
 ## 🚀 Features
